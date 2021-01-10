@@ -565,9 +565,9 @@ footer{
      justify-content: space-between;
      align-items: center;
  }
- /* .text-center {
+ .text-center {
      margin: 20px;
- } */
+ }
  p {
     font-family: 'Bodoni Moda', serif;
  }

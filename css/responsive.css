@@ -16,6 +16,9 @@
     .header {
         position: sticky;
     }
+    .text-center {
+        margin:0 auto;
+    }
     
     .section2-pict {
         width: 45%;
